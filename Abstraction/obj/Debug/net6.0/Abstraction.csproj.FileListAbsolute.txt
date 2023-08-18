@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.exe
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.deps.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.runtimeconfig.json
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\bin\Debug\net6.0\Abstraction.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.AssemblyInfo.cs
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\refint\Abstraction.dll
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.pdb
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\Abstraction.genruntimeconfig.cache
+C:\Users\user\Desktop\Guaranteed(CodeA)\Introduction\Tasks\(11) 18.08.2023\Abstraction\Abstraction\obj\Debug\net6.0\ref\Abstraction.dll

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Abstraction
 {
-    public  class BankCard
+    public abstract class BankCard
     {
         public BankCard(string fullname,string cardNumber, string cvv, decimal balance)
         {
